@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Ahmed%20Idriss&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Data%20%26%20Automation%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20AWS%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Governance&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ahmed Idriss — Data & Automation Engineer"/>
+  <img src="assets/header.svg" width="100%" alt="Ahmed Idriss — Data & Automation Engineer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=760&lines=Data+infrastructure+for+1M%2B+users;GDPR-compliant+pipelines+for+health+data;Automate+the+repetitive%2C+focus+on+decisions;First-Class+Maths+%26+CS+%E2%80%A2+University+of+Bristol" alt="Typing intro"/>
+  <img src="assets/typing.svg" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%92%AB%20About%20Me&fontSize=22&fontColor=ffffff" width="100%" alt="About Me"/>
+<img src="assets/section-about.svg" width="100%" alt="About Me"/>
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ I deliver automated reporting pipelines, robust database architecture and rigoro
 </p>
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%92%BC%20Professional%20Experience&fontSize=22&fontColor=ffffff" width="100%" alt="Professional Experience"/>
+<img src="assets/section-experience.svg" width="100%" alt="Professional Experience"/>
 
 ### 🏥 Data & Automation Engineer — Spectrum.Life
 <img src="https://img.shields.io/badge/Jul_2022_–_Present-24c6dc?style=flat-square"/> <img src="https://img.shields.io/badge/📍_Dublin,_Ireland-302b63?style=flat-square"/> <img src="https://img.shields.io/badge/Health_technology_platform_serving_millions_of_users-302b63?style=flat-square"/>
@@ -101,7 +101,7 @@ I deliver automated reporting pipelines, robust database architecture and rigoro
 </table>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=22&fontColor=ffffff" width="100%" alt="Featured Projects"/>
+<img src="assets/section-projects.svg" width="100%" alt="Featured Projects"/>
 
 <table>
 <tr>
@@ -143,7 +143,7 @@ I deliver automated reporting pipelines, robust database architecture and rigoro
 </table>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%92%BB%20Core%20Stack&fontSize=22&fontColor=ffffff" width="100%" alt="Core Stack"/>
+<img src="assets/section-stack.svg" width="100%" alt="Core Stack"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -247,7 +247,7 @@ I deliver automated reporting pipelines, robust database architecture and rigoro
 </table>
 
 <!-- ═══════════════════════════ HOW I WORK ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20How%20I%20Work&fontSize=22&fontColor=ffffff" width="100%" alt="How I Work"/>
+<img src="assets/section-how.svg" width="100%" alt="How I Work"/>
 
 <table>
 <tr>
@@ -260,7 +260,7 @@ I deliver automated reporting pipelines, robust database architecture and rigoro
 </table>
 
 <!-- ═══════════════════════════ EDUCATION & LANGUAGES ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%8E%93%20Education%20%26%20Languages&fontSize=22&fontColor=ffffff" width="100%" alt="Education and Languages"/>
+<img src="assets/section-education.svg" width="100%" alt="Education and Languages"/>
 
 <table>
 <tr>
@@ -288,7 +288,7 @@ University of Bristol · Bristol, UK · Graduated 2020
 </table>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=40&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=22&fontColor=ffffff" width="100%" alt="GitHub Stats"/>
+<img src="assets/section-stats.svg" width="100%" alt="GitHub Stats"/>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedidrisi21&theme=tokyonight" alt="Profile details and contributions"/>
@@ -311,4 +311,4 @@ University of Bristol · Bristol, UK · Graduated 2020
   <a href="resume/Ahmed_Idriss_CV.pdf"><img src="https://img.shields.io/badge/📄_View_CV-302b63?style=for-the-badge" alt="View CV"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>

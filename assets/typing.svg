@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="50" viewBox="0 0 760 50">
+<style>.x{font:600 22px 'Fira Code',Consolas,Menlo,monospace;fill:#24C6DC}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.l0{animation:k0 14.0s steps(1) infinite}@keyframes k0{0%{opacity:1}25.00%{opacity:0}100%{opacity:0}}.l1{animation:k1 14.0s steps(1) infinite}@keyframes k1{0%{opacity:0}25.00%{opacity:1}49.99%{opacity:1}50.00%{opacity:0}}.l2{animation:k2 14.0s steps(1) infinite}@keyframes k2{0%{opacity:0}50.00%{opacity:1}74.99%{opacity:1}75.00%{opacity:0}}.l3{animation:k3 14.0s steps(1) infinite}@keyframes k3{0%{opacity:0}75.00%{opacity:1}99.99%{opacity:1}100.00%{opacity:0}}</style>
+<g class="l0"><text x="380" y="31" text-anchor="middle" class="x">Data infrastructure for 1M+ users</text></g><g class="l1"><text x="380" y="31" text-anchor="middle" class="x">GDPR-compliant pipelines for health data</text></g><g class="l2"><text x="380" y="31" text-anchor="middle" class="x">Automate the repetitive, focus on decisions</text></g><g class="l3"><text x="380" y="31" text-anchor="middle" class="x">First-Class Maths &amp; CS • University of Bristol</text></g>
+</svg>
